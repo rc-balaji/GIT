@@ -2,7 +2,7 @@ import cv2
 import requests
 from PIL import Image
 import io
-# asasasssssssssssssssssss
+# asasasssssss
 
 def display_image(image_path):
     img = cv2.imread(image_path)
