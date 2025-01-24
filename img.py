@@ -4,6 +4,7 @@ from PIL import Image
 import io
 
 
+# asasa
 def display_image(image_path):
     img = cv2.imread(image_path)
     cv2.imshow("Local Image", img)
